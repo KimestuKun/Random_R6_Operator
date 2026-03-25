@@ -1,2 +1,3 @@
 # Random_R6_Operator
-The idea is to have a program that can choose a random operator for you and can be used for challenges if you like. Leaving my source code here if anyone wants to use it and create more stuff with it while I work on more projects (: 
+The point of this was to have a little UI you could use to have it pick random operators for you to play in Rainbow 6 siege. I thought it could be fun for chaallenges im using this as a way to practice python and relearn my skills for not being consistent with coding. I have left the original code and UI code for you guys to use and make whatever you wish with it. I you create anything more advanced let me know (: 
+Discord: KimestuKun
